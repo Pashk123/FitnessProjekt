@@ -9,7 +9,7 @@
     <meta name="author" content="Pashk Gjokaj">
 
     <title>{{ .Title }}</title>
-    <link rel="stylesheet" href="/FitnessProjekt/css/custom.css">
+    <link rel="stylesheet" href="/css/custom.css">
 </head>
 
 <body>
@@ -36,7 +36,7 @@
             <section class="section">
                 <h2>Ernährungsplan</h2>
                 {{ with .Site.GetPage "ernaehrungsplan/plan monday.md" }}
-                <article>
+                <article class="homebase">
                     <p>{{ .Content }}</p>
                     {{ with .Site.GetPage "uebungen/trainingsplan.md" }}
                     <a href="{{ .Permalink }}" class="button">read more</a>
@@ -47,7 +47,7 @@
             <section class="section">
                 <h2>Trainingsplan</h2>
                 {{ with .Site.GetPage "uebungen/trainingsplan monday.md" }}
-                <article>
+                <article class="homebase">
                     <p>{{ .Content }}</p>
                     {{ with .Site.GetPage "uebungen/trainingsplan.md" }}
                     <a href="{{ .Permalink }}" class="button">read more</a>

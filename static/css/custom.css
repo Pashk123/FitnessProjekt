@@ -83,6 +83,13 @@ main {
   text-decoration: none;
   border-radius: 4px;
 }
+.homebase{
+    text-align: center;
+}
+
+.homebase h3{
+    text-align: center !important;
+}
 article{
     text-align: left;
 }
