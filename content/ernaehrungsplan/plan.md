@@ -13,7 +13,7 @@ date: 2024-05-24
 - Gegrilltes Hähnchenbrustfilet mit Quinoa und  Gemüse (Brokkoli, Karotten, Paprika)
 
 **Abendessen:**
-- Gebackener Lachs mit Süßkartoffeln und Spargel
+- Gebackener Lachs mit Süsskartoffeln und Spargel
 
 **Snack:**
 - Apfelscheiben mit Erdnussbutter
@@ -72,7 +72,7 @@ date: 2024-05-24
 - Thunfischsalat mit Vollkornbrot
 
 **Abendessen:**
-- Gebratenes Hähnchen mit Süßkartoffeln und  Gemüse
+- Gebratenes Hähnchen mit Süsskartoffeln und  Gemüse
 
 **Snack:**
 - Apfelscheiben mit Erdnussbutter

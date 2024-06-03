@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ernaehrungsplan/</loc>
+    <loc>http://mein-fitness.ch/ernaehrungsplan/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ernaehrungsplan/plan-monday/</loc>
+    <loc>http://mein-fitness.ch/ernaehrungsplan/plan-monday/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ernaehrungsplan/plan/</loc>
+    <loc>http://mein-fitness.ch/ernaehrungsplan/plan/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://mein-fitness.ch/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/uebungen/trainingsplan-monday/</loc>
+    <loc>http://mein-fitness.ch/uebungen/trainingsplan-monday/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/uebungen/trainingsplan/</loc>
+    <loc>http://mein-fitness.ch/uebungen/trainingsplan/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ueber/ueber-das-projekt/</loc>
+    <loc>http://mein-fitness.ch/ueber/ueber-das-projekt/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ueber/</loc>
+    <loc>http://mein-fitness.ch/ueber/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/uebungen/</loc>
+    <loc>http://mein-fitness.ch/uebungen/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://mein-fitness.ch/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://mein-fitness.ch/tags/</loc>
   </url>
 </urlset>

@@ -13,7 +13,7 @@ Grüner Tee
 Gegrilltes Hähnchenbrustfilet mit Quinoa und Gemüse (Brokkoli, Karotten, Paprika)
 
 **Abendessen:**  
-Gebackener Lachs mit Süßkartoffeln und Spargel
+Gebackener Lachs mit Süsskartoffeln und Spargel
 
 **Snack:**  
 Apfelscheiben mit Erdnussbutter
