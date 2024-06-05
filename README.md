@@ -16,4 +16,3 @@ Die Webseite wurde auf GitHub Pages gehostet. Dieses Hosting wurde gewählt, da 
 - W3C CSS Validator: https://jigsaw.w3.org/css-validator/
 - Lighthouse: https://pagespeed.web.dev/
 - ChatGPT: Generierung Text
-- Link zur Website:  https://pashk123.github.io/FitnessProjekt/uebungen/trainingsplan/
