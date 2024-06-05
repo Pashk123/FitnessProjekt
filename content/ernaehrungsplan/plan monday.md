@@ -16,4 +16,4 @@ Gegrilltes Hähnchenbrustfilet mit Quinoa und Gemüse (Brokkoli, Karotten, Papri
 Gebackener Lachs mit Süsskartoffeln und Spargel
 
 **Snack:**  
-Apfelscheiben mit Erdnussbutter
+Banane mit Erdnussbutter
