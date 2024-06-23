@@ -22,6 +22,7 @@ Die Webseite wurde auf GitHub Pages gehostet. Dieses Hosting wurde gewählt, da 
 ## Quellen und Hilfsmittel
 
 - Hugo Documentation: https://gohugo.io/documentation/
+- Verlgeich SSG: https://cloudcannon.com/blog/eleventy-11ty-vs-hugo/
 - W3C HTML Validator: https://validator.w3.org
 - W3C CSS Validator: https://jigsaw.w3.org/css-validator/
 - Lighthouse: https://pagespeed.web.dev/
